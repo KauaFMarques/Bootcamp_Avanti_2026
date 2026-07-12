@@ -1,8 +1,6 @@
 # Atividade 01 - Conceitos Básicos de Machine Learning
-
-**Disciplina:** Machine Learning  
-**Tipo:** Diagnóstica  
-**Participante:** [Seu Nome]  
+  
+**Aluno: Kauã Ferreira Marques**
 
 ---
 
